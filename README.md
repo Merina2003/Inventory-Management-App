@@ -120,6 +120,10 @@ dotenv – Load environment variables
 
 👤 Author
 Merina Jaya George
+Sreenandana M
+Arya Pradeep
+Nandana K
+Aparna S S
 Backend Developer | Python + FastAPI Projects
 
 📜 License
